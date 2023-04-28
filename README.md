@@ -1,5 +1,5 @@
 #### 👋 Heey, there
-I just like doing things that work. Whether it's implementing new features, optimizing existing systems, or just 🧹🧹
+Doing things that work. Whether it's implementing new features, optimizing existing systems, or just 🧹🧹
 
 * 💰 software+data engineer @ point72
 * mostly Python codebases 🐍🐍
